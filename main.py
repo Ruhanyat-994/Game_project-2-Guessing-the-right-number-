@@ -1,4 +1,4 @@
-'''perfect guessing game'''
+'''perfect guessing game - play with your friends'''
 
 import random
 
